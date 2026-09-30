@@ -1,0 +1,1 @@
+Guarda aquí las fotos como <id>.jpg: flat-white, iced-matcha, espresso, cappuccino, lush-signature, cinnamon-latte, cold-brew, frappe-caramelo, matcha-latte, croissant, cookie-artesanal, tostada-palta. Si falta una, la app muestra un ícono de taza.
